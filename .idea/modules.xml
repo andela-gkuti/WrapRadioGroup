@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WrapRadio.iml" filepath="$PROJECT_DIR$/WrapRadio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrapradiogroup/wrapradiogroup.iml" filepath="$PROJECT_DIR$/wrapradiogroup/wrapradiogroup.iml" />
+    </modules>
+  </component>
+</project>
